@@ -1,0 +1,9 @@
+App\Entity\Phone:
+  apple_iphone_{1..13}:
+    brand: "Iphone <current()>"
+    manufacturer: "Apple"
+    price: <numberBetween(<current()> * 200, <current()> * 250)>
+  samsung_s_{1..20}:
+    brand: "Galaxy S <current()>"
+    manufacturer: "Samsung"
+    price: <numberBetween(<current()> * 200, <current()> * 250)>

@@ -1,0 +1,7 @@
+App\Entity\User:
+  sfr_user_{1..3}:
+    username: "<username()>"
+    password: <encodePassword('Test1234')>
+  orange_user_{1..3}:
+    username: "<username()>"
+    password: <encodePassword('Test1234')>
