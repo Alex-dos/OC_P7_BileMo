@@ -1,0 +1,9 @@
+
+App\Entity\User:
+  user{1..13}:
+    email: <email()>
+    name: <lastname()>
+    firstname: <name()>
+    customer: '@customer*'
+
+
