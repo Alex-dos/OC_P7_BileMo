@@ -1,4 +1,8 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/18c1b997565e4f66a5f4c1d9608a4266)](https://app.codacy.com/gh/Alex-dos/OC_P7_BileMo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a4b4ab97ebda4db390f9f568bf513e5a)](https://app.codacy.com/gh/Alex-dos/OC_P7_BileMo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+Documentation :
+https://candy-akubra-ce2.notion.site/Documentation-Technique-API-BileMO-ad6c9292ae0544f589ce7146642b812e?pvs=4
+
 # ⚙️ Installation
 ____________________
 ### Requirement 
